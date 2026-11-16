@@ -12,7 +12,7 @@ BACKUP_DIR="$HOME/backups"
 LOG_DIR="$HOME/logs"
 LOG_FILE="$LOG_DIR/maintain.log"
 
-KEEP=5
+KEEP=3
 MAX_LOG_BYTES=51200
 
 SERVICES=(ssh cron nginx)
