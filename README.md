@@ -4,4 +4,3 @@
 - maintain.sh
 - hello.sh
 - hello.sh prints a greeting
-bad line
