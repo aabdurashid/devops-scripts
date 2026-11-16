@@ -1,4 +1,5 @@
 #!/usr/bin/env bash 
+# Author: Abdurashid Abduraxmonov
 
 # maintain.sh - back up a folder, rotate the log,
 # keep the newest backups and check services.
